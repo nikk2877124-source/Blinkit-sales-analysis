@@ -13,7 +13,11 @@ Blinkit Grocery Data Analysis is an end-to-end data analytics project that demon
 
 ## Project overview
 
-This repository contains a small analytics workflow built with Python (Pandas) for data cleaning and EDA, SQL for targeted business queries, and Power BI for interactive dashboards. It explores sales performance across categories, outlets, and locations to produce actionable business insights.
+Below is a screenshot of the Power BI dashboard included in this repository:
+
+![Blinkit Power BI dashboard](images/blinkit_dashboard.png)
+
+This repository contains a small analytics workflow built with Python (Pandas) for data cleaning and EDA, SQL for targeted business queries, and Power BI for interactive dashboards. It explores sales [...]
 
 ## Repository structure
 
