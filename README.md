@@ -1,5 +1,7 @@
 # Blinkit-sales-analysis
 
+![Blinkit Sales Analysis](Screenshot%202026-08-11%20173930.png)
+
 Blinkit Grocery Data Analysis is an end-to-end data analytics project that demonstrates cleaning, exploratory analysis, SQL-based reporting, and dashboarding for Blinkit sales data.
 
 ## Table of contents
