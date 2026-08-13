@@ -1,7 +1,5 @@
 # Blinkit-sales-analysis
 
-![Blinkit Sales Analysis](Screenshot%202026-08-11%20173930.png)
-
 Blinkit Grocery Data Analysis is an end-to-end data analytics project that demonstrates cleaning, exploratory analysis, SQL-based reporting, and dashboarding for Blinkit sales data.
 
 ## Table of contents
@@ -14,6 +12,8 @@ Blinkit Grocery Data Analysis is an end-to-end data analytics project that demon
 - Notes
 
 ## Project overview
+
+![Blinkit Sales Analysis](Screenshot%202026-08-11%20173930.png)
 
 This repository contains a small analytics workflow built with Python (Pandas) for data cleaning and EDA, SQL for targeted business queries, and Power BI for interactive dashboards. It explores sales [...]
 
